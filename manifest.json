@@ -1,0 +1,21 @@
+{
+ "format": 1,
+ "version": 4,
+ "catalogs": {
+  "discover": {
+   "path": "v4/discover.json",
+   "bytes": 55543,
+   "sha256": "10e5f7b2c88e9199477358979bd08b106eeb97336ed3668a495c25227b7ecc43"
+  },
+  "messages": {
+   "path": "v4/messages.json",
+   "bytes": 15471,
+   "sha256": "daf1e5488e268de0bd5edde9c73db86eb0b562f37277b2c1f0ef8dc2051c9907"
+  },
+  "outfits": {
+   "path": "v4/outfits.json",
+   "bytes": 8116,
+   "sha256": "84e78ef1ce59a64e9415e9aaf185dcf4437eab3ea92054ad424e18b87a68104c"
+  }
+ }
+}

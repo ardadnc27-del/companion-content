@@ -1,0 +1,1294 @@
+{
+ "version": 4,
+ "items": [
+  {
+   "id": "style-three-colours",
+   "category": "style",
+   "title": "Üç renkle başla",
+   "summary": "Kararsız kaldığında kombini en fazla üç renkle sınırlamak işini kolaylaştırır.",
+   "body": [
+    "Bir kombinde birbirine yakın tonlarda en fazla üç renk kullanmak, katı bir kural değil ama iyi bir başlangıç noktası. Genellikle bir ana renk, bir destek rengi ve küçük bir vurgu yeterli olur.",
+    "Ana rengi pantolon ya da ceket gibi büyük bir parçada kullan. Vurgu rengini çanta, atkı ya da ayakkabıda tutarsan kombin dağınık görünmeden canlanır.",
+    "Siyah, beyaz, gri, lacivert ve bej gibi nötr renkler bu sayıya pek dahil edilmez; hemen her şeyle uyum sağlarlar."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "outing"
+   ]
+  },
+  {
+   "id": "style-capsule",
+   "category": "style",
+   "title": "Az parçayla çok kombin",
+   "summary": "Birbiriyle uyumlu az sayıda parça, sabah kararlarını hızlandırır.",
+   "body": [
+    "Kapsül gardırop fikri basit: birbiriyle kolayca eşleşen, sevdiğin ve sık giydiğin parçalardan küçük bir seçki oluşturmak.",
+    "Başlamak için dolabından en çok giydiğin on parçayı çıkar ve hangilerinin birbirine uyduğuna bak. Çoğu zaman eksik olan şey yeni bir parça değil, ortak bir renk paletidir.",
+    "Yeni bir şey almadan önce onu dolabındaki en az üç parçayla birlikte hayal etmeyi dene."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "style-fabric-labels",
+   "category": "style",
+   "title": "Etiketi okumaya değer",
+   "summary": "Kumaş etiketi, bir parçayı nasıl yıkayacağını ve ne kadar emek isteyeceğini önceden söyler.",
+   "body": [
+    "Bir parçayı almadan önce iç etiketine bakmak birkaç saniye sürer ama sonradan sürpriz yaşamanı önler: Kuru temizleme mi istiyor, elde mi yıkanmalı, ütü sever mi?",
+    "Bakımı zahmetli parçalar dolapta beklemeye daha yatkındır. Günlük hayatında nasıl bir bakıma vaktin olduğunu düşünmek, seçimini kolaylaştırır.",
+    "Yıkarken etiketteki sıcaklığa uymak, parçanın biçimini ve rengini daha uzun korumasına yardım eder."
+   ],
+   "sources": []
+  },
+  {
+   "id": "selfcare-five-minutes",
+   "category": "selfCare",
+   "title": "Beş dakikalık mola",
+   "summary": "Kısa bir mola, günün geri kalanına daha sakin dönmeni sağlayabilir.",
+   "body": [
+    "Uzun bir iş ya da ders arasında beş dakika ayır. Ekrandan uzaklaş, pencereden uzağa bak ya da kısa bir yürüyüş yap.",
+    "Bu molayı telefona bakarak geçirmemeye çalış; aksi hâlde zihin dinlenmek yerine yeni bilgilerle dolar.",
+    "Mola bitince ne yapacağını tek cümleyle yazmak, işe geri dönmeyi kolaylaştırır."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "rest"
+   ]
+  },
+  {
+   "id": "selfcare-evening-close",
+   "category": "selfCare",
+   "title": "Güne küçük bir kapanış",
+   "summary": "Akşam birkaç dakikalık bir kapanış, yarını zihninden boşaltmana yardım eder.",
+   "body": [
+    "Yatmadan önce yarın yapmak istediğin üç şeyi bir kâğıda yaz. Yazınca çoğu zaman aklında tutma ihtiyacı azalır.",
+    "Ardından bugün iyi giden küçük bir şeyi not et. Büyük olması gerekmiyor; güzel bir kahve ya da tamamlanan bir iş de sayılır.",
+    "Kâğıdı kaldır ve ekranı kapat. Kapanışın bir işaret olması, günün bittiğini hatırlatır."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "selfcare-kind-words",
+   "category": "selfCare",
+   "title": "Kendinle bir arkadaş gibi konuş",
+   "summary": "Zorlandığın anlarda kendine kullandığın dil, nasıl hissettiğini etkileyebilir.",
+   "body": [
+    "Bir hata yaptığında içinden geçenleri fark et. Aynı cümleyi sevdiğin bir arkadaşına söyler miydin?",
+    "Muhtemelen ona daha anlayışlı davranırdın: \"Zor bir gündü, bir dahakine farklı denersin\" gibi. Aynı cümleyi kendine söylemeyi dene.",
+    "Bu, hatayı görmezden gelmek demek değil; sadece ondan ders çıkarırken kendini yıpratmamak demek."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "facts-banana-berry",
+   "category": "lifeFacts",
+   "title": "Muz bir meyve, çilek ise değil",
+   "summary": "Botanikte \"meyve\" ve \"üzümsü meyve\" tanımları mutfaktakinden farklıdır.",
+   "body": [
+    "Botanikte üzümsü meyve (berry), tek bir çiçeğin tek yumurtalığından gelişen, etli ve genellikle çok tohumlu meyvedir. Bu tanıma göre muz, üzüm ve domates bu gruba girer.",
+    "Çilek ise girmez: Etli kısmı çiçek tablasının büyümesiyle oluşur, tohum sandığımız küçük noktalar da aslında ayrı ayrı küçük meyvelerdir.",
+    "Yani manavdaki adlandırma ile bilimsel sınıflandırma her zaman aynı değildir."
+   ],
+   "sources": [
+    {
+     "title": "Britannica: Berry",
+     "url": "https://www.britannica.com/science/berry-plant-reproductive-body"
+    },
+    {
+     "title": "Britannica: Strawberry",
+     "url": "https://www.britannica.com/plant/strawberry"
+    }
+   ]
+  },
+  {
+   "id": "facts-venus-day",
+   "category": "lifeFacts",
+   "title": "Venüs'te bir gün, bir yıldan uzun",
+   "summary": "Venüs kendi etrafında, Güneş'in etrafında döndüğünden daha yavaş döner.",
+   "body": [
+    "Venüs'ün kendi ekseni etrafında bir tur dönmesi yaklaşık 243 Dünya günü sürer. Güneş'in etrafındaki bir turu ise yaklaşık 225 Dünya günüdür.",
+    "Üstelik Venüs, Güneş sistemindeki çoğu gezegenin tersi yönde döner; orada Güneş batıdan doğuyormuş gibi görünür."
+   ],
+   "sources": [
+    {
+     "title": "NASA: Venus Facts",
+     "url": "https://science.nasa.gov/venus/venus-facts/"
+    }
+   ]
+  },
+  {
+   "id": "facts-octopus-hearts",
+   "category": "lifeFacts",
+   "title": "Ahtapotun üç kalbi var",
+   "summary": "Ahtapotlarda iki kalp solungaçlara, bir kalp vücudun geri kalanına kan pompalar.",
+   "body": [
+    "Ahtapotlarda iki kalp kanı solungaçlara, üçüncüsü vücudun geri kalanına pompalar.",
+    "Kanları mavimsidir; çünkü oksijeni demir yerine bakır içeren hemosiyanin adlı bir proteinle taşırlar.",
+    "Vücuda kan pompalayan kalbin ahtapot yüzerken durduğu bildiriliyor; bu da ahtapotların neden çoğunlukla yüzmek yerine sürünerek ilerlediğini açıklayan nedenlerden biri olarak görülüyor."
+   ],
+   "sources": [
+    {
+     "title": "Smithsonian Magazine: Ten Curious Facts About Octopuses",
+     "url": "https://www.smithsonianmag.com/science-nature/ten-curious-facts-about-octopuses-7625828/"
+    }
+   ]
+  },
+  {
+   "id": "culture-tulip",
+   "category": "culture",
+   "title": "Lale ve tülbent",
+   "summary": "İngilizcedeki \"tulip\" kelimesinin kökeni Türkçeye kadar uzanır.",
+   "body": [
+    "Etimoloji sözlüklerine göre \"tulip\" kelimesi Türkçedeki \"tülbent\" sözcüğünden gelir; çiçeğin biçiminin sarığa benzetildiği düşünülür. Kelime Avrupa dillerine 16. yüzyılın ikinci yarısında girdi.",
+    "Osmanlı'da lale o kadar sevildi ki III. Ahmed döneminde 1718–1730 yılları sonradan \"Lale Devri\" olarak anıldı."
+   ],
+   "sources": [
+    {
+     "title": "Etymonline: tulip",
+     "url": "https://www.etymonline.com/word/tulip"
+    },
+    {
+     "title": "Britannica: Tulip Period",
+     "url": "https://www.britannica.com/topic/Tulip-Period"
+    }
+   ]
+  },
+  {
+   "id": "culture-gobeklitepe",
+   "category": "culture",
+   "title": "Göbeklitepe",
+   "summary": "Şanlıurfa yakınındaki Göbeklitepe, bilinen en eski anıtsal yapılardan biri.",
+   "body": [
+    "UNESCO'ya göre Göbeklitepe'deki dairesel ve dikdörtgen megalitik yapılar, MÖ 9600 ile 8200 arasında, çanak çömleksiz Neolitik dönemde avcı-toplayıcılar tarafından inşa edildi.",
+    "T biçimli büyük dikilitaşların üzerinde yabani hayvan tasvirleri bulunuyor. Alan 2018'de UNESCO Dünya Mirası Listesi'ne girdi."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO Dünya Mirası: Göbekli Tepe",
+     "url": "https://whc.unesco.org/en/list/1572/"
+    }
+   ]
+  },
+  {
+   "id": "culture-coffeehouse",
+   "category": "culture",
+   "title": "Kahvehanelerin başlangıcı",
+   "summary": "İstanbul'da kahvehaneler 16. yüzyılın ortalarında açılmaya başladı.",
+   "body": [
+    "Tarihçiler İstanbul'daki ilk kahvehanenin 1550'lerin ortasında, sıkça aktarılan bilgiye göre 1554'te açıldığını söyler. Kahvehaneler kısa sürede sohbet, oyun ve haber alışverişinin yapıldığı yerler hâline geldi.",
+    "Türk kahvesi kültürü ve geleneği 2013'te UNESCO'nun İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ne eklendi."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO Courier: Turkish coffee, not just a drink but a culture",
+     "url": "https://courier.unesco.org/en/articles/turkish-coffee-not-just-drink-culture"
+    },
+    {
+     "title": "UNESCO: Turkish coffee culture and tradition",
+     "url": "https://ich.unesco.org/en/RL/turkish-coffee-culture-and-tradition-00645"
+    }
+   ]
+  },
+  {
+   "id": "psychology-name-it",
+   "category": "psychology",
+   "title": "Duyguya bir isim ver",
+   "summary": "Ne hissettiğini kelimeye dökmek, o duyguyla baş etmeyi kolaylaştırabilir.",
+   "body": [
+    "2007'de yayımlanan bir beyin görüntüleme çalışmasında, duygusal yüz ifadelerine bakan katılımcılardan duyguyu adlandırmaları istendiğinde, amigdaladaki tepkinin diğer koşullara göre azaldığı görüldü.",
+    "Bu tek başına bir tedavi ya da kural değil; ama denemesi kolay bir alışkanlık: Bir an dur ve hissettiğin şeyi olabildiğince net bir kelimeyle söyle.",
+    "\"Kötüyüm\" yerine \"yorgunum\" ya da \"yalnız hissediyorum\" demek, neye ihtiyacın olduğunu da görünür kılabilir."
+   ],
+   "sources": [
+    {
+     "title": "Lieberman ve ark. (2007), Psychological Science — PubMed",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/17576282/"
+    }
+   ]
+  },
+  {
+   "id": "psychology-unfinished",
+   "category": "psychology",
+   "title": "Yarım kalan işler gerçekten akılda mı kalır?",
+   "summary": "1920'lerde ortaya atılan Zeigarnik etkisi, yeni bir meta-analizde doğrulanmadı.",
+   "body": [
+    "Psikolog Bluma Zeigarnik 1920'lerde, yarıda kesilen görevlerin tamamlananlardan daha iyi hatırlandığını öne sürdü. Bu fikir bugün \"Zeigarnik etkisi\" olarak biliniyor.",
+    "2025'te yayımlanan bir meta-analiz, yarım kalan işler için genel bir hafıza avantajı bulmadı. Buna karşılık insanların yarım kalan işlere geri dönme eğiliminin (Ovsiankina etkisi) daha tutarlı olduğunu gördü.",
+    "Pratik bir not: Bir işi yarıda bırakırken bir sonraki adımı yazmak, ona geri dönmeyi kolaylaştırır."
+   ],
+   "sources": [
+    {
+     "title": "Ghibellini & Meier (2025), Zeigarnik ve Ovsiankina etkileri meta-analizi",
+     "url": "https://doi.org/10.1057/s41599-025-05000-w"
+    }
+   ]
+  },
+  {
+   "id": "psychology-spotlight",
+   "category": "psychology",
+   "title": "Kimse o kadar dikkat etmiyor",
+   "summary": "İnsanlar, başkalarının kendilerini ne kadar fark ettiğini çoğu zaman olduğundan fazla tahmin eder.",
+   "body": [
+    "Psikolojide buna \"spot ışığı etkisi\" deniyor. 2000'de yayımlanan çalışmalarda, utandırıcı ya da hoşlarına giden bir tişört giyen katılımcılar, tişörtü fark edecek kişi sayısını gerçekte olandan fazla tahmin etti.",
+    "Bunu bilmek, küçük bir hata ya da farklı bir kıyafet yüzünden yaşanan utancı biraz hafifletebilir: Çoğu insan kendi günüyle meşgul."
+   ],
+   "sources": [
+    {
+     "title": "Gilovich, Medvec & Savitsky (2000) — PubMed",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/10707330/"
+    }
+   ]
+  },
+  {
+   "id": "daily-night-before",
+   "category": "dailyLife",
+   "title": "Sabah kararını akşamdan ver",
+   "summary": "Kıyafetini ve çantanı akşamdan hazırlamak, sabahları zaman kazandırır.",
+   "body": [
+    "Sabahlar genellikle en aceleci zamanlardır. Ertesi günün kıyafetini, anahtarını ve çantasını akşamdan hazırlamak bu aceleyi azaltır.",
+    "Hava durumuna akşamdan bakıp kombinini ona göre seçebilirsin; sabah sadece giyinmek kalır."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "daily-two-minutes",
+   "category": "dailyLife",
+   "title": "İki dakika kuralı",
+   "summary": "İki dakikadan kısa süren bir işi hemen yapmak, küçük işlerin birikmesini önler.",
+   "body": [
+    "Verimlilik yazarı David Allen'ın önerdiği bu yöntem basit: Bir iş iki dakikadan kısa sürecekse onu listeye yazmak yerine hemen yap.",
+    "Bir bardağı makineye koymak, bir mesaja kısa cevap vermek ya da bir faturayı ödemek gibi işler bu gruba girer. Yapılmayınca birikip olduğundan büyük görünürler."
+   ],
+   "sources": [
+    {
+     "title": "Getting Things Done: The Two-minute Rule",
+     "url": "https://gettingthingsdone.com/2020/05/the-two-minute-rule-2/"
+    }
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "daily-weekly-plan",
+   "category": "dailyLife",
+   "title": "On dakikalık haftalık plan",
+   "summary": "Haftaya başlamadan önce kısa bir plan, haftanın daha öngörülebilir geçmesini sağlar.",
+   "body": [
+    "Pazar akşamı ya da pazartesi sabahı on dakika ayır. Haftanın önemli günlerini, randevularını ve kaçırmak istemediğin şeyleri gözden geçir.",
+    "Her gün için tek bir öncelik belirlemek yeterli. Hepsini yapamasan bile en önemlisinin yapıldığını bilmek iyi hissettirir."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "tips-shoe-air",
+   "category": "practicalTips",
+   "title": "Ayakkabılara dinlenme günü",
+   "summary": "Aynı ayakkabıyı her gün giymek yerine dönüşümlü kullanmak, onları daha uzun ömürlü yapar.",
+   "body": [
+    "Ayakkabılar gün boyunca nem toplar. Bir gün dinlenmelerine izin vermek, iyice kurumaları için zaman tanır.",
+    "Islanan ayakkabıların içine buruşturulmuş gazete kâğıdı koyup oda sıcaklığında kurumaya bırakabilirsin. Deri ve özel malzemelerde üreticinin bakım önerisine bakmak en güvenli yol."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "tips-battery-heat",
+   "category": "practicalTips",
+   "title": "Telefon bataryasının dostu: serinlik",
+   "summary": "Bataryalar en çok aşırı sıcaktan etkilenir.",
+   "body": [
+    "Apple, iPhone'u 35 °C'nin üzerindeki ortam sıcaklıklarında kullanmanın ya da şarj etmenin pil ömrünü kalıcı olarak kısaltabileceğini söylüyor. Güneş altında ya da sıcak bir arabada şarj etmemeye çalış.",
+    "\"Optimize Edilmiş Pil Şarjı\" seçeneği, şarj alışkanlıklarını öğrenip telefonun tam dolu kaldığı süreyi azaltarak pil yıpranmasını azaltmaya çalışır. Ayarlar > Pil bölümünden kontrol edebilirsin."
+   ],
+   "sources": [
+    {
+     "title": "Apple Destek: iPhone pilini şarj etme ve bakımı",
+     "url": "https://support.apple.com/en-us/105105"
+    },
+    {
+     "title": "Apple Destek: Optimize Edilmiş Pil Şarjı",
+     "url": "https://support.apple.com/en-us/108055"
+    }
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "tips-stain",
+   "category": "practicalTips",
+   "title": "Leke anında ne yapmalı?",
+   "summary": "Lekeye hızlı ve doğru müdahale, çoğu zaman sonradan uğraşmaktan iyidir.",
+   "body": [
+    "Lekeyi ovalamak yerine temiz bir bezle bastırarak emdir; ovalamak lekeyi yayabilir ve kumaşa zarar verebilir.",
+    "Kan gibi lekelerde soğuk su kullan; sıcak su bu lekeleri kumaşa sabitleyebilir.",
+    "Lekenin çıktığından emin olmadan kurutma makinesine atma; ısıyla kuruyan lekeler kalıcı hâle gelebilir. Kullanmadan önce kumaşın etiketine bak."
+   ],
+   "sources": [
+    {
+     "title": "American Cleaning Institute: Stain Removal Guide",
+     "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide"
+    },
+    {
+     "title": "American Cleaning Institute: Laundry Basics",
+     "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/laundry-basics"
+    }
+   ],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "niche-honey",
+   "category": "nicheFacts",
+   "title": "Bal kolay kolay bozulmaz",
+   "summary": "Ağzı iyi kapatılmış bal, çok uzun süre bozulmadan kalabilir.",
+   "body": [
+    "Balın su oranı düşük ve yapısı asidiktir; bu da mikroorganizmaların çoğalmasını zorlaştırır. Ağzı iyi kapatılmazsa havadaki nemi çekebileceği için kavanozu kapalı tutmak önemlidir.",
+    "Balın zamanla kristalleşmesi bozulduğu anlamına gelmez. Kavanozu ılık suya koyarak yeniden akışkan hâle getirebilirsin."
+   ],
+   "sources": [
+    {
+     "title": "Smithsonian Magazine: Why Honey Never Spoils",
+     "url": "https://www.smithsonianmag.com/smart-news/why-honey-never-spoils-1218690/"
+    },
+    {
+     "title": "National Honey Board: FAQ",
+     "url": "https://honey.com/faq"
+    }
+   ]
+  },
+  {
+   "id": "niche-wombat",
+   "category": "nicheFacts",
+   "title": "Küp şeklinde dışkı",
+   "summary": "Avustralya'da yaşayan vombatlar küp biçiminde dışkı bırakır.",
+   "body": [
+    "2021'de Soft Matter dergisinde yayımlanan bir çalışma, bu şeklin bağırsak duvarının bazı bölgelerinin daha sert, bazılarının daha esnek olmasından kaynaklandığını gösterdi.",
+    "Köşeli şeklin dışkının yuvarlanıp gitmesini zorlaştırdığı ve bölge işaretlemeye yaradığı da düşünülüyor; ama bu henüz kanıtlanmış değil."
+   ],
+   "sources": [
+    {
+     "title": "Smithsonian Magazine: Scientists Have Solved the Mystery of How Wombats Poop Cubes",
+     "url": "https://www.smithsonianmag.com/smart-news/scientists-have-solved-mystery-how-wombats-poop-cubes-180976898/"
+    }
+   ]
+  },
+  {
+   "id": "niche-eiffel",
+   "category": "nicheFacts",
+   "title": "Eyfel Kulesi güneşle hareket eder",
+   "summary": "Metal ısınınca genleşir; Eyfel Kulesi de sıcakta biraz uzar ve tepesi güneşe göre yer değiştirir.",
+   "body": [
+    "Kulenin resmî sitesine göre sıcak günlerde demir yapı genleşir ve kule birkaç milimetre uzar.",
+    "Güneş kulenin bir yüzünü diğerlerinden daha çok ısıttığı için tepe noktası gün boyunca yaklaşık 15 santimetre çapında bir daire çizer."
+   ],
+   "sources": [
+    {
+     "title": "La Tour Eiffel: Why does the Eiffel Tower change size?",
+     "url": "https://www.toureiffel.paris/en/news/history-and-culture/why-does-eiffel-tower-change-size"
+    }
+   ]
+  },
+  {
+   "id": "style-shoes-first",
+   "category": "style",
+   "title": "Kombine ayakkabıdan başla",
+   "summary": "Gün boyu ne kadar yürüyeceğini bilmek, kombinin geri kalanını belirler.",
+   "body": [
+    "Sabah kararsız kaldığında önce gün içinde ne kadar yürüyeceğini düşün ve ayakkabını seç.",
+    "Ayakkabı belli olunca pantolon boyu, çanta ve hatta ceket kendiliğinden daralır. Seçenek azalınca karar vermek kolaylaşır."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "style-one-statement",
+   "category": "style",
+   "title": "Tek bir dikkat çeken parça",
+   "summary": "Bir kombinde öne çıkan tek bir parça çoğu zaman yeterlidir.",
+   "body": [
+    "Desenli bir gömlek, renkli bir ayakkabı ya da iddialı bir küpe: Kombinde dikkat çekmesini istediğin tek bir parça seç.",
+    "Geri kalan parçaları sade tutarsan o parça daha çok görünür ve kombin dağınık durmaz."
+   ],
+   "sources": [],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "style-fit-check",
+   "category": "style",
+   "title": "Ayna yerine fotoğraf",
+   "summary": "Kendini fotoğrafta görmek, aynada fark etmediğin oranları gösterebilir.",
+   "body": [
+    "Yeni bir kombini denerken boy aynası yerine telefonla bir fotoğraf çek.",
+    "Fotoğrafa birkaç saniye sonra bakmak, paçanın ya da ceket boyunun nasıl durduğunu daha tarafsız görmeni sağlar. Beğenmediğin bir şey varsa tek bir parçayı değiştirip tekrar dene."
+   ],
+   "sources": [],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "style-tuck",
+   "category": "style",
+   "title": "Yarım sokuş",
+   "summary": "Gömleğin ya da tişörtün yalnızca önünü pantolona sokmak bel çizgisini belirginleştirir.",
+   "body": [
+    "Bol bir üst giydiğinde ön kısmının bir bölümünü pantolona sokmak, kombinin daha derli toplu görünmesini sağlar.",
+    "Tamamen içeride ya da tamamen dışarıda bırakmak arasında bir seçenek olduğu için hem rahat hem düzenli bir görünüm verir."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "outing"
+   ]
+  },
+  {
+   "id": "style-rewear",
+   "category": "style",
+   "title": "Aynı parça, farklı hafta",
+   "summary": "Sevdiğin bir parçayı farklı kombinlerle tekrar giymek gayet doğal.",
+   "body": [
+    "Bir parçayı sık giymek, onu gerçekten sevdiğinin işaretidir. Aynı ceketi bir hafta jeanle, bir hafta kumaş pantolonla dene.",
+    "Hangi kombinleri sevdiğini telefonuna fotoğraf olarak kaydetmek, ileride hızlıca seçim yapmanı sağlar."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "style-accessory-swap",
+   "category": "style",
+   "title": "Aksesuarla değiştir",
+   "summary": "Aynı kombin, farklı bir aksesuarla bambaşka görünebilir.",
+   "body": [
+    "Sade bir kombini bir saat, bir kemer ya da bir atkıyla değiştirmeyi dene.",
+    "Aksesuarlar az yer kaplar ve gün içinde kolayca eklenip çıkarılır; sabah toplantısı ile akşam buluşması arasında geçiş için pratik bir yol."
+   ],
+   "sources": [],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "style-closet-light",
+   "category": "style",
+   "title": "Dolabı görünür kıl",
+   "summary": "Görmediğin parçayı giymen zorlaşır.",
+   "body": [
+    "Sık giydiğin parçaları göz hizasına, mevsim dışı olanları üst ya da alt raflara koy.",
+    "Askıları aynı yöne çevirip giydiğin parçanın askısını ters taktığında, birkaç ay sonra hangi parçaları hiç giymediğini kolayca görebilirsin."
+   ],
+   "sources": []
+  },
+  {
+   "id": "selfcare-small-list",
+   "category": "selfCare",
+   "title": "İyi gelenler listesi",
+   "summary": "Zor bir günde ne yapacağını önceden bilmek işini kolaylaştırır.",
+   "body": [
+    "Sakin bir anında sana iyi gelen küçük şeylerin bir listesini yaz: bir şarkı, kısa bir yürüyüş, birini aramak, sıcak bir içecek.",
+    "Zorlandığın bir günde karar vermek zor olabilir. Hazır bir liste, seçimi senin yerine yapar."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "selfcare-no-phone-start",
+   "category": "selfCare",
+   "title": "Güne telefondan önce başla",
+   "summary": "Uyanınca ilk birkaç dakikayı telefona bakmadan geçirmeyi dene.",
+   "body": [
+    "Sabah ilk iş bildirimlere bakmak, günün gündemini başkalarının belirlemesine izin verebilir.",
+    "Uyandıktan sonra birkaç dakika pencereden bak, yüzünü yıka ya da bir bardak su iç. Telefon o birkaç dakika bekleyebilir."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "rest"
+   ]
+  },
+  {
+   "id": "selfcare-boundaries",
+   "category": "selfCare",
+   "title": "\"Şimdi olmaz\" demek",
+   "summary": "Her isteğe hemen evet demek zorunda değilsin.",
+   "body": [
+    "Bir rica geldiğinde hemen cevap vermek yerine \"Bakıp sana döneyim\" demek sana düşünme alanı açar.",
+    "Gerçekten vaktin yoksa nazik ama net olmak, sonradan yorgun ve kırgın hissetmekten genellikle daha iyidir."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "selfcare-tiny-tidy",
+   "category": "selfCare",
+   "title": "Beş dakikalık toparlama",
+   "summary": "Bütün evi değil, tek bir yüzeyi topla.",
+   "body": [
+    "Dağınıklık bunaltıcı geldiğinde tek bir yüzey seç: bir masa, bir raf ya da çalışma köşen.",
+    "Beş dakika sonunda bırakabilirsin. Küçük ama görünür bir düzen, günün geri kalanında iyi hissettirebilir."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest",
+    "errands"
+   ]
+  },
+  {
+   "id": "selfcare-ask-help",
+   "category": "selfCare",
+   "title": "Yardım istemek de bir beceri",
+   "summary": "Her şeyi tek başına halletmek zorunda değilsin.",
+   "body": [
+    "Bir işi tek başına taşımak zor geldiğinde, kime küçük bir parça devredebileceğini düşün.",
+    "Yardım istemek çoğu zaman karşı taraf için de değerli hissettirir; ilişkiler biraz da bu karşılıklı destekle güçlenir."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "selfcare-slow-meal",
+   "category": "selfCare",
+   "title": "Bir öğünü ekransız ye",
+   "summary": "Günün bir öğününü ekrana bakmadan yemek küçük bir mola olabilir.",
+   "body": [
+    "Telefonu ve ekranı bir kenara bırakıp sadece yemeğine odaklandığın bir öğün dene.",
+    "Tatları, kokuyu ve oturduğun yeri fark etmek, gün içindeki küçük bir duraklama gibi hissettirebilir."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "selfcare-gratitude-three",
+   "category": "selfCare",
+   "title": "Günün üç küçük anı",
+   "summary": "Akşam, gün içinde iyi giden üç küçük şeyi hatırla.",
+   "body": [
+    "Büyük olmaları gerekmiyor: güzel bir kahve, bir arkadaşın mesajı, bitirdiğin bir iş.",
+    "Bunları bir deftere ya da telefonuna yazmak, birkaç hafta sonra geri dönüp okuyabileceğin küçük bir arşiv oluşturur."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "facts-sunlight-minutes",
+   "category": "lifeFacts",
+   "title": "Güneş ışığı 8 dakika gecikmeli gelir",
+   "summary": "Gördüğün Güneş ışığı yaklaşık 8 dakika 20 saniye önce yola çıktı.",
+   "body": [
+    "NASA'ya göre Güneş'ten çıkan ışığın yaklaşık 150 milyon kilometrelik yolu kat edip Dünya'ya ulaşması 8 dakika 20 saniye kadar sürer.",
+    "Yani Güneş'e baktığımızda, onun birkaç dakika önceki hâlini görürüz."
+   ],
+   "sources": [
+    {
+     "title": "NASA Space Place: All About the Sun",
+     "url": "https://spaceplace.nasa.gov/all-about-the-sun/en/"
+    }
+   ]
+  },
+  {
+   "id": "facts-moon-drift",
+   "category": "lifeFacts",
+   "title": "Ay her yıl biraz uzaklaşıyor",
+   "summary": "Ay, Dünya'dan yılda yaklaşık 3,8 santimetre uzaklaşıyor.",
+   "body": [
+    "Apollo astronotlarının Ay'a bıraktığı yansıtıcılara Dünya'dan lazer gönderilerek mesafe ölçülüyor.",
+    "NASA'ya göre bu ölçümler, Ay ile Dünya arasındaki uzaklığın her yıl yaklaşık 3,8 santimetre arttığını gösteriyor. Bunun nedeni gelgit etkileşimleri."
+   ],
+   "sources": [
+    {
+     "title": "NASA JPL: Apollo 11 Experiment Continues to Return Valuable Data",
+     "url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+    }
+   ]
+  },
+  {
+   "id": "facts-lightning-heat",
+   "category": "lifeFacts",
+   "title": "Yıldırım Güneş'in yüzeyinden sıcak",
+   "summary": "Bir yıldırım, çevresindeki havayı Güneş'in yüzeyinden kat kat sıcak hâle getirebilir.",
+   "body": [
+    "ABD Ulusal Hava Durumu Servisi'ne göre yıldırım, geçtiği yoldaki havayı yaklaşık 27.000 °C'ye kadar ısıtabilir; bu, Güneş yüzeyinin yaklaşık beş katı.",
+    "Havanın bu kadar hızlı ısınıp genleşmesi bir şok dalgası oluşturur; gök gürültüsü olarak duyduğumuz ses budur."
+   ],
+   "sources": [
+    {
+     "title": "National Weather Service: Understanding Lightning Science",
+     "url": "https://www.weather.gov/safety/lightning-science-overview"
+    }
+   ]
+  },
+  {
+   "id": "facts-mars-sol",
+   "category": "lifeFacts",
+   "title": "Mars'ta bir gün",
+   "summary": "Mars'taki bir gün Dünya'dakinden yalnızca biraz daha uzun.",
+   "body": [
+    "Mars'ta Güneş'in iki doğuşu arasındaki süre, yani bir \"sol\", ortalama 24 saat 39 dakika 35 saniye sürer.",
+    "Mars görevlerinde çalışan ekipler bu yüzden bazen kendi saatlerini her gün yaklaşık 40 dakika kaydırarak çalışır."
+   ],
+   "sources": [
+    {
+     "title": "NASA GISS: Mars24 Sunclock — Technical Notes on Mars Solar Time",
+     "url": "https://www.giss.nasa.gov/tools/mars24/help/notes.html"
+    }
+   ]
+  },
+  {
+   "id": "facts-ice-floats",
+   "category": "lifeFacts",
+   "title": "Buz neden yüzer?",
+   "summary": "Su donarken genleşir; buz, sıvı sudan daha hafiftir.",
+   "body": [
+    "ABD Jeolojik Araştırmalar Kurumu'na (USGS) göre su donduğunda yoğunluğu yaklaşık yüzde 9 azalır. Buz kristalinde moleküller daha düzenli ve aralıklı dizilir.",
+    "Bu yüzden buz suyun üstünde yüzer; bir buzdağının yaklaşık yüzde 10'u su yüzeyinin üstünde kalır."
+   ],
+   "sources": [
+    {
+     "title": "USGS Water Science School: Water Density",
+     "url": "https://www.usgs.gov/water-science-school/science/water-density"
+    }
+   ]
+  },
+  {
+   "id": "facts-mariana-deep",
+   "category": "lifeFacts",
+   "title": "Okyanusun en derin noktası",
+   "summary": "Mariana Çukuru'ndaki Challenger Derinliği yaklaşık 11 kilometre derinliğinde.",
+   "body": [
+    "NOAA'ya göre okyanusun bilinen en derin noktası, Batı Pasifik'teki Mariana Çukuru'nda bulunan Challenger Derinliği. Son ölçümler bu noktayı yaklaşık 10.935 metre olarak veriyor.",
+    "Bu derinlik, Everest Dağı'nın yüksekliğinden de fazla."
+   ],
+   "sources": [
+    {
+     "title": "NOAA Ocean Service: How deep is the ocean?",
+     "url": "https://oceanservice.noaa.gov/facts/oceandepth.html"
+    }
+   ]
+  },
+  {
+   "id": "facts-saturn-density",
+   "category": "lifeFacts",
+   "title": "Suda yüzebilecek bir gezegen",
+   "summary": "Satürn, Güneş sisteminde ortalama yoğunluğu sudan düşük olan tek gezegen.",
+   "body": [
+    "Satürn çok büyük ama büyük ölçüde hidrojen ve helyumdan oluştuğu için ortalama yoğunluğu sudan düşük.",
+    "Bu yüzden NASA, yeterince büyük bir küvet olsaydı Satürn'ün suda yüzebileceğini söyler. Tabii katı bir yüzeyi olmadığı için bu sadece bir benzetme."
+   ],
+   "sources": [
+    {
+     "title": "NASA StarChild: Saturn",
+     "url": "https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/saturn.html"
+    }
+   ]
+  },
+  {
+   "id": "culture-hagia-sophia",
+   "category": "culture",
+   "title": "Ayasofya'nın beş yılı",
+   "summary": "Ayasofya, 532–537 yılları arasında yalnızca beş yılda inşa edildi.",
+   "body": [
+    "Britannica'ya göre Ayasofya, Bizans İmparatoru I. Justinianus döneminde, mimarlar Trallesli Anthemios ve Miletli İsidoros tarafından 532–537 yılları arasında inşa edildi.",
+    "Yapı, İstanbul'un Tarihi Alanları kapsamında 1985'te UNESCO Dünya Mirası Listesi'ne girdi."
+   ],
+   "sources": [
+    {
+     "title": "Britannica: Hagia Sophia",
+     "url": "https://www.britannica.com/topic/Hagia-Sophia"
+    },
+    {
+     "title": "UNESCO Dünya Mirası: Historic Areas of Istanbul",
+     "url": "https://whc.unesco.org/en/list/356/"
+    }
+   ]
+  },
+  {
+   "id": "culture-ebru",
+   "category": "culture",
+   "title": "Su üstünde resim: Ebru",
+   "summary": "Ebru, boyaların koyulaştırılmış su üzerinde desenlendirilip kâğıda aktarılmasıyla yapılır.",
+   "body": [
+    "Ebrucular boyaları koyulaştırılmış suyun yüzeyine serpip fırçayla şekillendirir, ardından deseni kâğıda aktarır.",
+    "UNESCO'ya göre bu bilgi usta-çırak ilişkisiyle aktarılır ve temel becerileri edinmek en az iki yıl sürer. Ebru 2014'te İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'ne girdi."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Ebru, Turkish art of marbling",
+     "url": "https://ich.unesco.org/en/RL/ebru-turkish-art-of-marbling-00644"
+    }
+   ]
+  },
+  {
+   "id": "culture-nasreddin",
+   "category": "culture",
+   "title": "Nasreddin Hoca yedi ülkenin",
+   "summary": "Nasreddin Hoca fıkralarını anlatma geleneği yedi ülkenin ortak mirası olarak kayıtlı.",
+   "body": [
+    "Nasreddin Hoca fıkralarını anlatma geleneği 2022'de UNESCO'nun Somut Olmayan Kültürel Miras Temsili Listesi'ne girdi.",
+    "Başvuru Azerbaycan, Kazakistan, Kırgızistan, Tacikistan, Türkiye, Türkmenistan ve Özbekistan tarafından ortak yapıldı. Karakterin adı ülkeden ülkeye değişse de fıkralar ortak bir mirasın parçası olarak görülüyor."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Telling tradition of Nasreddin Hodja anecdotes",
+     "url": "https://ich.unesco.org/en/RL/telling-tradition-of-nasreddin-hodja-molla-nesreddin-molla-ependi-apendi-afendi-kozhanasyr-anecdotes-01705"
+    }
+   ]
+  },
+  {
+   "id": "culture-kirkpinar",
+   "category": "culture",
+   "title": "Kırkpınar'ın kırk davul-zurnası",
+   "summary": "Edirne'deki Kırkpınar Yağlı Güreşleri UNESCO listesinde yer alıyor.",
+   "body": [
+    "Kırkpınar Yağlı Güreş Festivali 2010'da UNESCO'nun Somut Olmayan Kültürel Miras Temsili Listesi'ne girdi.",
+    "UNESCO kaydına göre festival, kırk davul-zurna takımının yer aldığı bir törenle açılır ve pehlivanlar altın kemer için güreşir. Başvuru dosyası festivalin kökenini 14. yüzyıla dayandırır."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Kırkpınar oil wrestling festival",
+     "url": "https://ich.unesco.org/en/RL/krkpnar-oil-wrestling-festival-00386"
+    }
+   ]
+  },
+  {
+   "id": "culture-catalhoyuk",
+   "category": "culture",
+   "title": "Çatalhöyük'te çatıdan girilen evler",
+   "summary": "Çatalhöyük'teki evler bitişik yapılmıştı ve içlerine çatıdan girilirdi.",
+   "body": [
+    "Konya yakınlarındaki Çatalhöyük'ün doğu höyüğü, UNESCO'ya göre MÖ 7400 ile 6200 arasına tarihlenen 18 Neolitik yerleşim katmanı içeriyor.",
+    "Evler aralarında sokak olmadan yan yana inşa edilmişti ve çatılardan giriliyordu. Alan 2012'de UNESCO Dünya Mirası Listesi'ne girdi."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO Dünya Mirası: Neolithic Site of Çatalhöyük",
+     "url": "https://whc.unesco.org/en/list/1405/"
+    }
+   ]
+  },
+  {
+   "id": "culture-karagoz",
+   "category": "culture",
+   "title": "Karagöz'ün deri tasvirleri",
+   "summary": "Karagöz figürleri deve ya da sığır derisinden yapılır.",
+   "body": [
+    "Karagöz, deriden yapılmış ve çubuklarla tutulan tasvirlerin bir ışık kaynağının önünde perdeye yansıtıldığı bir gölge oyunudur.",
+    "UNESCO'ya göre bir zamanlar özellikle Ramazan'da kahvehanelerde ve meydanlarda sahnelenirdi. Karagöz 2009'da Somut Olmayan Kültürel Miras Temsili Listesi'ne girdi."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO: Karagöz",
+     "url": "https://ich.unesco.org/en/RL/karagoz-00180"
+    }
+   ]
+  },
+  {
+   "id": "culture-ephesus",
+   "category": "culture",
+   "title": "Efes'ten geriye kalanlar",
+   "summary": "Efes, 2015'te UNESCO Dünya Mirası Listesi'ne girdi.",
+   "body": [
+    "UNESCO'ya göre Efes'te 150 yıla yakın kazı ve koruma çalışması, eski tören yolu boyunca Roma İmparatorluk dönemine ait büyük yapıları ortaya çıkardı; Celsus Kütüphanesi bunların en bilinenlerinden.",
+    "Antik dünyanın yedi harikasından biri sayılan Artemis Tapınağı'ndan ise bugün çok az iz kaldı."
+   ],
+   "sources": [
+    {
+     "title": "UNESCO Dünya Mirası: Ephesus",
+     "url": "https://whc.unesco.org/en/list/1018/"
+    }
+   ]
+  },
+  {
+   "id": "psychology-mere-exposure",
+   "category": "psychology",
+   "title": "Tanıdık geldikçe sevmek",
+   "summary": "Bir şeyi sık görmek, ona karşı daha olumlu hissetmemize yol açabilir.",
+   "body": [
+    "Psikolog Robert Zajonc 1968'de, bir şeyle yalnızca tekrar tekrar karşılaşmanın ona yönelik tutumu olumlu yönde etkileyebileceğini gösteren çalışmalar yayımladı. Buna \"salt maruz kalma etkisi\" deniyor.",
+    "Belki de ilk dinlediğinde pek sevmediğin bir şarkının birkaç dinlemeden sonra aklına takılmasının bir açıklaması budur."
+   ],
+   "sources": [
+    {
+     "title": "Zajonc (1968), Attitudinal effects of mere exposure — DOI",
+     "url": "https://doi.org/10.1037/h0025848"
+    }
+   ]
+  },
+  {
+   "id": "psychology-if-then",
+   "category": "psychology",
+   "title": "\"Eğer… o zaman…\" planları",
+   "summary": "Ne zaman ve nerede yapacağını önceden belirlemek, niyeti eyleme dökmeye yardım edebilir.",
+   "body": [
+    "Psikolog Peter Gollwitzer, \"Saat 7'de eve gelince spor ayakkabılarımı giyeceğim\" gibi koşul-eylem planlarını \"uygulama niyeti\" olarak adlandırdı ve bunların hedefe ulaşmayı kolaylaştırabildiğini öne sürdü.",
+    "Etkinin büyüklüğü çalışmadan çalışmaya değişiyor; yine de denemesi kolay: Hedefini bir zamana ve yere bağla."
+   ],
+   "sources": [
+    {
+     "title": "Gollwitzer (1999), Implementation intentions: Strong effects of simple plans — DOI",
+     "url": "https://doi.org/10.1037/0003-066X.54.7.493"
+    }
+   ]
+  },
+  {
+   "id": "psychology-peak-end",
+   "category": "psychology",
+   "title": "Sonu iyi biten deneyim",
+   "summary": "Bir deneyimi hatırlarken en yoğun anı ve sonu süresinden daha çok etkili olabilir.",
+   "body": [
+    "1993'te yayımlanan bir deneyde katılımcılar elini önce 60 saniye soğuk suda tuttu; başka bir denemede bu 60 saniyeye, suyun biraz ısındığı 30 saniye daha eklendi.",
+    "Hangisini tekrarlamak istedikleri sorulduğunda çoğu, toplamda daha uzun olan ama daha hafif biten denemeyi seçti. Bu bulgu \"zirve-son kuralı\" ile ilişkilendiriliyor."
+   ],
+   "sources": [
+    {
+     "title": "Kahneman ve ark. (1993), When More Pain Is Preferred to Less — DOI",
+     "url": "https://doi.org/10.1111/j.1467-9280.1993.tb00589.x"
+    }
+   ]
+  },
+  {
+   "id": "psychology-choice-overload",
+   "category": "psychology",
+   "title": "Çok seçenek her zaman kötü mü?",
+   "summary": "Ünlü reçel deneyi, sonraki çalışmalarda her zaman tekrarlanamadı.",
+   "body": [
+    "2000'de yayımlanan bir çalışmada, 24 ya da 30 seçenek yerine 6 seçenek sunulan alışverişçilerin reçel ya da çikolata satın alma olasılığı daha yüksekti. Bu \"seçim yükü\" olarak anılmaya başlandı.",
+    "Ancak 2010'da 50 deneyi bir araya getiren bir meta-analiz, ortalama etkinin neredeyse sıfır olduğunu ve sonuçların duruma göre çok değiştiğini buldu. Yani çok seçenek bazen zorlar, bazen hiç etkilemez."
+   ],
+   "sources": [
+    {
+     "title": "Iyengar & Lepper (2000), When choice is demotivating — PubMed",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11138768/"
+    },
+    {
+     "title": "Scheibehenne ve ark. (2010), Can There Ever Be Too Many Options? — RePEc",
+     "url": "https://econpapers.repec.org/RePEc:oup:jconrs:v:37:y:2010:i:3:p:409-425"
+    }
+   ]
+  },
+  {
+   "id": "psychology-ikea-effect",
+   "category": "psychology",
+   "title": "Kendi yaptığın daha değerli",
+   "summary": "İnsanlar kendi kurdukları eşyaya daha yüksek değer biçebiliyor.",
+   "body": [
+    "2012'de yayımlanan çalışmalarda katılımcılar, kendi kurdukları IKEA kutularına, katladıkları origamilere ve yaptıkları Lego setlerine hazır olanlardan daha fazla değer biçti.",
+    "Araştırmacılar buna \"IKEA etkisi\" adını verdi. Etki, iş başarıyla tamamlandığında ortaya çıkıyordu; yarım kalan ya da bozulan işlerde görülmedi."
+   ],
+   "sources": [
+    {
+     "title": "Norton, Mochon & Ariely (2012), The IKEA effect — DOI",
+     "url": "https://doi.org/10.1016/j.jcps.2011.08.002"
+    }
+   ]
+  },
+  {
+   "id": "psychology-testing-effect",
+   "category": "psychology",
+   "title": "Hatırlamaya çalışmak öğretir",
+   "summary": "Bir konuyu tekrar okumak yerine kendini sınamak, uzun vadede daha iyi hatırlamaya yardım edebilir.",
+   "body": [
+    "2006'da yayımlanan bir çalışmada öğrenciler bir metni ya tekrar okudu ya da hatırladıklarını yazdı. Birkaç gün sonraki testte, kendini sınayan grup daha fazlasını hatırladı.",
+    "İlginç olan, tekrar okuyan öğrencilerin kendilerine daha çok güvenmesiydi. Bir şeyi öğrenirken kitabı kapatıp hatırladıklarını yazmayı deneyebilirsin."
+   ],
+   "sources": [
+    {
+     "title": "Roediger & Karpicke (2006), Test-enhanced learning — PubMed",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/"
+    }
+   ]
+  },
+  {
+   "id": "psychology-fresh-start",
+   "category": "psychology",
+   "title": "Yeni başlangıç etkisi",
+   "summary": "Yeni bir hafta, ay ya da doğum günü, hedeflere başlamak için motive edici olabilir.",
+   "body": [
+    "2014'te yayımlanan çalışmalar, insanların yeni bir haftanın, ayın ya da yılın başında hedefle ilgili davranışlara daha sık yöneldiğini gösterdi; örneğin bu dönemlerde spor salonu ziyaretleri arttı.",
+    "Araştırmacılar bunu \"yeni başlangıç etkisi\" olarak adlandırdı. Bir şeye başlamak için illa pazartesiyi beklemek gerekmez ama böyle anlar işe yarayan bir kıvılcım olabilir."
+   ],
+   "sources": [
+    {
+     "title": "Dai, Milkman & Riis (2014), The Fresh Start Effect — RePEc",
+     "url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:60:y:2014:i:10:p:2563-2582"
+    }
+   ]
+  },
+  {
+   "id": "daily-launch-pad",
+   "category": "dailyLife",
+   "title": "Kapının yanında bir köşe",
+   "summary": "Anahtar, cüzdan ve kulaklık için sabit bir yer, sabah aramalarını bitirir.",
+   "body": [
+    "Kapının yanına bir kase ya da küçük bir raf koy ve eve gelince anahtarını, cüzdanını ve kulaklığını oraya bırak.",
+    "Birkaç gün sonra alışkanlık hâline gelir; sabah çıkarken her şey tek bir yerde seni bekler."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "daily-one-thing",
+   "category": "dailyLife",
+   "title": "Günün tek önceliği",
+   "summary": "Sabah, bugün yapılırsa iyi hissettirecek tek bir işi seç.",
+   "body": [
+    "Uzun listeler bazen nereden başlayacağını zorlaştırır. Güne başlarken \"Bugün yalnızca bunu yaparsam iyi olur\" dediğin tek bir işi belirle.",
+    "Önce onu bitirmeye çalış; geri kalan her şey bonus."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "daily-batch-errands",
+   "category": "dailyLife",
+   "title": "Ayak işlerini birleştir",
+   "summary": "Benzer küçük işleri tek seferde yapmak zaman kazandırır.",
+   "body": [
+    "Kargo bırakmak, market alışverişi ve eczane gibi dışarıdaki işleri aynı güne ve aynı rotaya topla.",
+    "Telefon görüşmeleri ya da e-postalar için de aynı şey geçerli: Hepsini art arda yapınca bölünme azalır."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "daily-evening-reset",
+   "category": "dailyLife",
+   "title": "On dakikalık akşam toparlaması",
+   "summary": "Yatmadan önce kısa bir toparlama, sabahı daha hafif başlatır.",
+   "body": [
+    "Akşam on dakika ayır: bulaşıkları kaldır, masanı topla, ertesi günün çantasını hazırla.",
+    "Sabah uyandığında seni dağınıklık yerine düzenli bir başlangıç karşılar."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "daily-calendar-buffer",
+   "category": "dailyLife",
+   "title": "Takvime boşluk koy",
+   "summary": "Randevular arasına kısa boşluklar eklemek günü daha az aceleci yapar.",
+   "body": [
+    "Toplantıları ya da randevuları art arda koymak yerine aralarına 10–15 dakikalık boşluklar bırak.",
+    "Bu boşluklar gecikmeleri yutar, not almana ya da bir bardak su içmene zaman tanır."
+   ],
+   "sources": [],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "daily-shopping-list",
+   "category": "dailyLife",
+   "title": "Listeyi telefonda tut",
+   "summary": "Alışveriş listesini her zaman yanında taşıdığın bir yerde tutmak unutmayı azaltır.",
+   "body": [
+    "Bir şeyin bittiğini fark ettiğin anda telefonundaki bir listeye ekle.",
+    "Markete gittiğinde listeye bakmak hem unutulan şeyleri hem de gereksiz alışverişi azaltır. Ev arkadaşlarınla ortak bir liste de kullanabilirsin."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "daily-weekend-slow",
+   "category": "dailyLife",
+   "title": "Hafta sonuna boş bir yarım gün",
+   "summary": "Hafta sonunun bir kısmını planlamadan bırakmak dinlendirici olabilir.",
+   "body": [
+    "Hafta sonunu da hafta içi gibi doldurmak kolaydır. Bir yarım günü bilerek boş bırak.",
+    "O zamanı o an canın ne isterse ona ayırabilirsin: kitap, yürüyüş ya da sadece hiçbir şey."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "tips-cable-labels",
+   "category": "practicalTips",
+   "title": "Kablolara etiket",
+   "summary": "Bir parça bantla hangi kablonun neye ait olduğunu bir bakışta görebilirsin.",
+   "body": [
+    "Prizin arkasındaki kabloların ucuna küçük bir bant parçası yapıştırıp üzerine \"modem\", \"lamba\" gibi yaz.",
+    "Bir şeyi fişten çekmen gerektiğinde doğru kabloyu aramakla vakit kaybetmezsin."
+   ],
+   "sources": []
+  },
+  {
+   "id": "tips-parking-photo",
+   "category": "practicalTips",
+   "title": "Arabayı nereye bıraktın?",
+   "summary": "Büyük otoparklarda kat ve sıra numarasının fotoğrafını çekmek işini kolaylaştırır.",
+   "body": [
+    "Büyük bir otoparka park ettiğinde kat ve sıra tabelasının fotoğrafını çek.",
+    "Dönüşte telefonundaki son fotoğrafa bakman yeterli; aynı yöntemi otel oda numarası ya da kiralık bisiklet park yeri için de kullanabilirsin."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "tips-receipts-folder",
+   "category": "practicalTips",
+   "title": "Faturalar için tek klasör",
+   "summary": "Garanti belgelerini ve faturaları tek bir yerde toplamak ileride işini kolaylaştırır.",
+   "body": [
+    "Aldığın cihazların faturalarını ve garanti belgelerini fiziksel ya da dijital tek bir klasörde topla.",
+    "Kâğıt faturaların fotoğrafını çekip o klasöre eklemek, kâğıt soluklaşsa bile bilgiyi korur."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "tips-travel-checklist",
+   "category": "practicalTips",
+   "title": "Tekrar kullanılabilir yolculuk listesi",
+   "summary": "Her seyahatte baştan düşünmek yerine bir kez liste hazırla.",
+   "body": [
+    "Telefonuna kalıcı bir \"yolculuk\" listesi oluştur: şarj aleti, kimlik, ilaçların, kulaklık, adaptör.",
+    "Her seyahatten önce aynı listeyi gözden geçirmek, unutulan eşya sayısını azaltır. Unuttuğun bir şey olursa listeye ekle."
+   ],
+   "sources": [],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "tips-freezer-label",
+   "category": "practicalTips",
+   "title": "Dondurucuya tarih yaz",
+   "summary": "Dondurduğun yiyeceklerin üzerine ne olduğunu ve tarihini yazmak karışıklığı önler.",
+   "body": [
+    "Dondurucuya koyduğun kapların üzerine bir bant yapıştırıp içindekini ve tarihini yaz.",
+    "Böylece hangisini önce kullanman gerektiğini kolayca görürsün ve \"Bu neydi?\" sorusuyla uğraşmazsın."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "tips-password-manager",
+   "category": "practicalTips",
+   "title": "Şifreleri hatırlamak yerine sakla",
+   "summary": "Bir şifre yöneticisi, her hesap için farklı bir şifre kullanmayı kolaylaştırır.",
+   "body": [
+    "Aynı şifreyi birçok yerde kullanmak yerine bir şifre yöneticisinin güçlü şifreler oluşturup saklamasına izin ver. iPhone'da bunun için Şifreler uygulaması var.",
+    "Böylece hatırlaman gereken tek şey, cihazının ya da şifre yöneticinin kilidi olur."
+   ],
+   "sources": []
+  },
+  {
+   "id": "tips-keys-spare",
+   "category": "practicalTips",
+   "title": "Yedek anahtarı düşün",
+   "summary": "Anahtarını kaybettiğinde ne yapacağını önceden planlamak stresi azaltır.",
+   "body": [
+    "Güvendiğin birine yedek bir anahtar bırakmak, kapıda kaldığın bir günü çok daha kolay hâle getirir.",
+    "Yedek anahtarın kimde olduğunu bir yere not et; ihtiyaç anında hatırlamak zor olabilir."
+   ],
+   "sources": [],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "niche-tardigrade",
+   "category": "nicheFacts",
+   "title": "Su ayısının kuraklık modu",
+   "summary": "Mikroskobik su ayıları kuruyup neredeyse duran bir metabolizmayla uzun süre dayanabilir.",
+   "body": [
+    "Tardigradlar ya da \"su ayıları\" yarım milimetreden küçük hayvanlardır. Ortam kuruduğunda bacaklarını içeri çekip büzülür ve \"tun\" denen bir hâle geçerler.",
+    "Britannica'ya göre bu hâlde metabolizmaları normalin yüzde 0,01'ine kadar düşebilir; böylece kuraklık ve aşırı soğuk gibi zor koşullara uzun süre dayanabilirler."
+   ],
+   "sources": [
+    {
+     "title": "Britannica: Tardigrade",
+     "url": "https://www.britannica.com/animal/tardigrade"
+    }
+   ]
+  },
+  {
+   "id": "niche-flamingo",
+   "category": "nicheFacts",
+   "title": "Flamingolar pembe doğmaz",
+   "summary": "Flamingoların rengi yedikleri besinlerdeki pigmentlerden gelir.",
+   "body": [
+    "Smithsonian Ulusal Hayvanat Bahçesi'ne göre flamingolar renklerini, yedikleri alg ve küçük karideslerdeki karotenoid pigmentlerinden alır.",
+    "Yavrular gri tüylerle doğar ve pembe renk birkaç yıl içinde ortaya çıkar. Beslenme değiştikçe rengin tonu da değişebilir."
+   ],
+   "sources": [
+    {
+     "title": "Smithsonian's National Zoo: Why Are Flamingos Pink?",
+     "url": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts"
+    }
+   ]
+  },
+  {
+   "id": "niche-koala-sleep",
+   "category": "nicheFacts",
+   "title": "Koalalar neden bu kadar uyur?",
+   "summary": "Koalalar günün büyük bölümünü uyuyarak ya da dinlenerek geçirir.",
+   "body": [
+    "Avustralya Koala Vakfı'na göre koalalar günde 18 ila 22 saat uyur.",
+    "Bunun nedeni okaliptüs yapraklarının besin değeri düşük ve sindirimi zor bir besin olması: Koalalar enerji tasarrufu için çok uyur. Vakıf, okaliptüsün onları \"sarhoş ettiği\" yönündeki yaygın inancın doğru olmadığını da belirtiyor."
+   ],
+   "sources": [
+    {
+     "title": "Australian Koala Foundation: The Koala's Diet & Digestion",
+     "url": "https://savethekoala.com/about-koalas/koalas-diet-digestion/"
+    }
+   ]
+  },
+  {
+   "id": "niche-cloud-weight",
+   "category": "nicheFacts",
+   "title": "Bir bulut ne kadar ağır?",
+   "summary": "Ortalama bir kümülüs bulutundaki su damlacıkları yüzlerce ton ağırlığında olabilir.",
+   "body": [
+    "USGS'nin basit hesabına göre yaklaşık bir kilometreküplük bir kümülüs bulutu, metreküp başına yaklaşık 0,5 gram su damlacığı içerir. Bu da toplamda yaklaşık 500 ton suya karşılık gelir.",
+    "Bulut yine de düşmez; çünkü bu su, çok geniş bir alana dağılmış minicik damlacıklar hâlindedir ve yükselen hava akımlarıyla taşınır."
+   ],
+   "sources": [
+    {
+     "title": "USGS Water Science School: How Much Does a Cloud Weigh?",
+     "url": "https://www.usgs.gov/water-science-school/science/how-much-does-a-cloud-weigh"
+    }
+   ]
+  },
+  {
+   "id": "niche-sharks-trees",
+   "category": "nicheFacts",
+   "title": "Köpekbalıkları ağaçlardan eski",
+   "summary": "Köpekbalıklarının en eski izleri yaklaşık 450 milyon yıl öncesine dayanıyor.",
+   "body": [
+    "Londra Doğa Tarihi Müzesi'ne göre köpekbalıklarına ya da atalarına ait en eski fosil kanıtı, yaklaşık 450 milyon yıl öncesine ait birkaç pul.",
+    "Müze, köpekbalıklarının dinozorlardan ve ağaçlardan daha eski olduğunu ve birçok kitlesel yok oluşu atlattığını belirtiyor."
+   ],
+   "sources": [
+    {
+     "title": "Natural History Museum: Shark evolution, a 450 million year timeline",
+     "url": "https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html"
+    }
+   ]
+  },
+  {
+   "id": "niche-hummingbird",
+   "category": "nicheFacts",
+   "title": "Geriye doğru uçabilen kuş",
+   "summary": "Sinekkuşları havada asılı kalabilir, hatta kısa mesafelerde geriye doğru uçabilir.",
+   "body": [
+    "Britannica'ya göre sinekkuşlarının kanatları gövdeye yalnızca omuz ekleminden bağlanır; bu yapı onlara olağanüstü bir hareket esnekliği verir.",
+    "Bu sayede havada bir noktada asılı kalabilir ve kısa mesafelerde geriye doğru, hatta ters dönmüş hâlde uçabilirler."
+   ],
+   "sources": [
+    {
+     "title": "Britannica: Hummingbird",
+     "url": "https://www.britannica.com/animal/hummingbird"
+    }
+   ]
+  },
+  {
+   "id": "niche-short-war",
+   "category": "nicheFacts",
+   "title": "Kırk dakikadan kısa süren savaş",
+   "summary": "1896'daki İngiliz-Zanzibar Savaşı, kayıtlara geçen en kısa savaş olarak bilinir.",
+   "body": [
+    "Britannica'ya göre 27 Ağustos 1896'da İngiliz savaş gemilerinin Zanzibar sarayını bombalamasıyla başlayan çatışma 40 dakikadan kısa sürdü.",
+    "Savaş, Sultan Hamed bin Süveyni'nin ölümünün ardından tahtı kimin alacağı konusundaki anlaşmazlıktan doğmuştu."
+   ],
+   "sources": [
+    {
+     "title": "Britannica: Anglo-Zanzibar War",
+     "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
+    }
+   ]
+  },
+  {
+   "id": "style-layering",
+   "category": "style",
+   "title": "Katmanlarla giyinmek",
+   "summary": "Sabahı serin, öğlesi ılık günlerde katmanlar kombini bozmadan ısını ayarlamanı sağlar.",
+   "body": [
+    "İlk katman tene yakın, ince ve rahat bir parça olsun: düz bir tişört ya da ince bir triko. Gün ısındığında üzerinde kalacak parça bu, o yüzden tek başına da derli toplu görünmeli.",
+    "İkinci katman ısıyı tutan parça: hırka, sweatshirt ya da ince bir yelek. Çıkarıp çantaya koyabileceğin kadar hafif olması işini kolaylaştırır.",
+    "Dış katman rüzgâra ve yağmura karşı: trençkot, kot ceket ya da yağmurluk. Üç katmanı aynı renk ailesinde tutarsan hangisini çıkarırsan çıkar kombin dağılmaz."
+   ],
+   "sources": [],
+   "contexts": [
+    "work",
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "daily-season-swap",
+   "category": "dailyLife",
+   "title": "Mevsim geçişinde dolabı çevir",
+   "summary": "Mevsimi geçmiş parçaları kaldırıp yenilerini öne almak, sabah seçimini kısaltır.",
+   "body": [
+    "Hava kalıcı olarak değişmeye başladığında bir hafta sonu yarım saat ayır. Bu mevsim giymeyeceğin kalın ya da çok ince parçaları bir kutuya veya dolabın üst rafına kaldır.",
+    "Kaldırırken her parçaya kısaca bak: söküğü olanları ayır, uzun süredir hiç giymediklerini ayrı bir torbaya koy. Karar vermek zorunda değilsin; sadece gözden uzaklaştırmak bile seçimi kolaylaştırır.",
+    "Yeni mevsimin parçalarını göz hizasına yerleştir. Sabah dolabı açtığında yalnızca o hava için uygun seçenekleri görmek, kombin kararını hızlandırır."
+   ],
+   "sources": [],
+   "contexts": [
+    "rest",
+    "errands"
+   ]
+  }
+ ]
+}
