@@ -1,0 +1,753 @@
+{
+ "version": 5,
+ "messages": [
+  {
+   "id": "small-steps",
+   "text": "Bugün her şeyi yapmak zorunda değilsin. Bir şeyi yapman, hiçbir şey yapmamaktan çok daha fazlası.",
+   "moods": [
+    "tired",
+    "stressed",
+    "low"
+   ],
+   "goals": [
+    "motivation",
+    "routines"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "rest-is-work",
+   "text": "Dinlenmek de günün bir parçası. Ertelenmiş bir iş değil, ihtiyaç duyduğun bir şey.",
+   "moods": [
+    "tired"
+   ],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "one-breath",
+   "text": "Omuzlarının nerede durduğunu fark et. Onları biraz indirmek bile küçük bir rahatlama olabilir.",
+   "moods": [
+    "stressed"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "heavy-days",
+   "text": "Bazı günler ağır geçer ve bunun bir açıklaması olmak zorunda değil. Bugün kendine biraz daha yumuşak davranabilirsin.",
+   "moods": [
+    "sad",
+    "low"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "not-alone",
+   "text": "Zorlandığını kabul etmek bir zayıflık değil. Güvendiğin birine iki cümle yazmak bile yükü biraz paylaşmak demek.",
+   "moods": [
+    "sad",
+    "low",
+    "stressed"
+   ],
+   "goals": []
+  },
+  {
+   "id": "good-energy",
+   "text": "Bugün enerjin yerinde. Uzun süredir ertelediğin küçük bir işi bitirmek için iyi bir gün olabilir.",
+   "moods": [
+    "great",
+    "good"
+   ],
+   "goals": [
+    "motivation",
+    "routines"
+   ]
+  },
+  {
+   "id": "share-good",
+   "text": "İyi giden şeyleri fark etmek de bir beceri. Bugün seni gülümseten bir anı aklında tut.",
+   "moods": [
+    "great",
+    "good",
+    "calm"
+   ],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "calm-moment",
+   "text": "Sakin anlar kendiliğinden gelmez her zaman; bugün geldiyse tadını çıkar.",
+   "moods": [
+    "calm"
+   ],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "water-reminder",
+   "text": "Bir bardak su, beş dakikalık bir yürüyüş ve biraz gün ışığı. Bazen iyi bir gün bu kadar basit başlar.",
+   "moods": [],
+   "goals": [
+    "selfCare",
+    "healthTracking"
+   ]
+  },
+  {
+   "id": "progress-not-perfect",
+   "text": "Mükemmel bir gün beklemek yerine biraz daha iyi bir gün hedefle. Fark zamanla birikir.",
+   "moods": [],
+   "goals": [
+    "motivation",
+    "routines"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "own-pace",
+   "text": "Herkesin hızı farklı. Başkalarının nerede olduğuna değil, dünden bugüne attığın adıma bak.",
+   "moods": [],
+   "goals": [
+    "motivation"
+   ]
+  },
+  {
+   "id": "style-confidence",
+   "text": "Giydiğin şeyde rahat hissetmek, en iddialı parçadan daha çok fark edilir.",
+   "moods": [],
+   "goals": [
+    "styleAdvice"
+   ],
+   "contexts": [
+    "outing",
+    "work"
+   ]
+  },
+  {
+   "id": "style-try",
+   "text": "Bugün kombinine küçük bir değişiklik ekle: farklı bir aksesuar ya da hiç denemediğin bir renk.",
+   "moods": [
+    "great",
+    "good",
+    "calm"
+   ],
+   "goals": [
+    "styleAdvice"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "routine-anchor",
+   "text": "Gün dağınık geçse bile bir sabit noktan olsun: aynı saatte bir çay, kısa bir yürüyüş ya da akşam bir sayfa kitap.",
+   "moods": [],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "curious",
+   "text": "Bugün merak ettiğin bir şeyi öğrenmeye beş dakika ayır. Zihnin yeniliğe iyi yanıt verir.",
+   "moods": [
+    "great",
+    "good",
+    "calm"
+   ],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "enough",
+   "text": "Bugün yaptıkların yeterli. Listede kalanlar yarın da orada olacak.",
+   "moods": [
+    "tired",
+    "stressed"
+   ],
+   "goals": [
+    "selfCare",
+    "routines"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "permission-slow",
+   "text": "Yavaşlamak geri kalmak demek değil. Bazen en doğru adım, biraz durmaktır.",
+   "moods": [
+    "tired",
+    "stressed",
+    "low"
+   ],
+   "goals": [],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "kind-word",
+   "text": "Bugün birine içten bir teşekkür et. Küçük bir cümle, iki kişinin de gününü değiştirebilir.",
+   "moods": [
+    "great",
+    "good",
+    "calm"
+   ],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "body-signal",
+   "text": "Yorgunluk bazen bir uyarıdır. Bu akşam erken yatmak, yarınki sana yapacağın iyi bir iyilik olabilir.",
+   "moods": [
+    "tired"
+   ],
+   "goals": [
+    "selfCare",
+    "healthTracking"
+   ]
+  },
+  {
+   "id": "tiny-win",
+   "text": "Küçük bir başarıyı da kutlamaya değer. Yaptığın bir şeyin üstünü çiz ve bunu fark et.",
+   "moods": [],
+   "goals": [
+    "motivation"
+   ]
+  },
+  {
+   "id": "feelings-pass",
+   "text": "Hissettiğin şey gerçek, ama kalıcı olmak zorunda değil. Duygular hava gibi değişir.",
+   "moods": [
+    "sad",
+    "low",
+    "stressed"
+   ],
+   "goals": []
+  },
+  {
+   "id": "fresh-air",
+   "text": "Pencereyi aç, birkaç dakika dışarıya bak. Ortam değişince düşünceler de yer değiştirir.",
+   "moods": [
+    "stressed",
+    "low",
+    "tired"
+   ],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "outing",
+    "rest"
+   ]
+  },
+  {
+   "id": "look-back",
+   "text": "Bir yıl önce seni endişelendiren bir şeyi hatırla. Onu geride bıraktın; bunu da bırakabilirsin.",
+   "moods": [
+    "stressed",
+    "low"
+   ],
+   "goals": [
+    "motivation"
+   ]
+  },
+  {
+   "id": "today-is-yours",
+   "text": "Bugünün bir kısmını sadece kendine ayır. Kimseye açıklama yapmak zorunda olmadığın birkaç dakika.",
+   "moods": [],
+   "goals": [
+    "selfCare",
+    "brighterDays"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "window-view",
+   "text": "Bugün bir an dur ve pencereden dışarıda neyin değiştiğine bak: ışık, ağaçlar, insanlar. Dünya da kendi temposunda ilerliyor.",
+   "moods": [],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "unfinished-ok",
+   "text": "Yarım kalan bir iş, bitmeyecek bir iş demek değil. Bazen sadece sırasını bekliyordur.",
+   "moods": [],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "one-message",
+   "text": "Uzun zamandır konuşmadığın birine kısa bir mesaj atmak, iki kişilik bir iyilik olabilir.",
+   "moods": [],
+   "goals": [
+    "brighterDays"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "drink-something-warm",
+   "text": "Elinde sıcak bir fincanla iki dakika oturmak da bir plan sayılır.",
+   "moods": [],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "notice-body",
+   "text": "Şu an nasıl oturduğunu fark et. Biraz gerinmek, gün içinde kendine verebileceğin en kısa molalardan biri.",
+   "moods": [],
+   "goals": [
+    "selfCare",
+    "healthTracking"
+   ]
+  },
+  {
+   "id": "plan-light",
+   "text": "Bugünün planı hafif olabilir. Hafif bir plan da bir plandır.",
+   "moods": [],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "errands",
+    "rest"
+   ]
+  },
+  {
+   "id": "own-words",
+   "text": "Kendine bugün ne söylemek isterdin? Bir arkadaşına söyleyeceğin kadar nazik olsun.",
+   "moods": [],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "progress-note",
+   "text": "Bir ay önce zorlandığın bir şeyi bugün daha kolay yapıyorsan, bu da bir ilerleme.",
+   "moods": [],
+   "goals": [
+    "motivation"
+   ]
+  },
+  {
+   "id": "small-beauty",
+   "text": "Bugün gözüne çarpan güzel bir ayrıntıyı aklında tut. Akşam onu hatırlamak iyi gelebilir.",
+   "moods": [],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "outfit-comfort",
+   "text": "Bugün kendini rahat hissettiğin bir şey giy. Rahatlık da bir tarz.",
+   "moods": [],
+   "goals": [
+    "styleAdvice"
+   ],
+   "contexts": [
+    "rest",
+    "outing"
+   ]
+  },
+  {
+   "id": "finish-one",
+   "text": "Listedeki en kısa işi seç ve bitir. Bir şeyin üstünü çizmek, sıradaki için yol açar.",
+   "moods": [],
+   "goals": [
+    "motivation",
+    "routines"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "pause-before",
+   "text": "Bir karar vermeden önce bir nefeslik ara ver. Acele etmek zorunda olmadığın şeyler de var.",
+   "moods": [],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "share-joy",
+   "text": "İyi hissettiğin bir günde bunu biriyle paylaşmak, o iyiliği ikiye katlayabilir.",
+   "moods": [
+    "great",
+    "good"
+   ],
+   "goals": [
+    "brighterDays"
+   ]
+  },
+  {
+   "id": "try-new-route",
+   "text": "Bugün enerjin yerinde. İşe ya da eve farklı bir yoldan gitmeyi dene; küçük değişiklikler günü tazeler.",
+   "moods": [
+    "great",
+    "good"
+   ],
+   "goals": [
+    "brighterDays"
+   ],
+   "contexts": [
+    "outing",
+    "work"
+   ]
+  },
+  {
+   "id": "start-something",
+   "text": "Uzun zamandır başlamak istediğin bir şeyin ilk on dakikasını bugün yapabilirsin.",
+   "moods": [
+    "great",
+    "good"
+   ],
+   "goals": [
+    "motivation"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "bold-color",
+   "text": "Bugün kombinine sevdiğin ama az giydiğin bir renk ekle.",
+   "moods": [
+    "great",
+    "good"
+   ],
+   "goals": [
+    "styleAdvice"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "calm-keep",
+   "text": "Bu sakinliği biraz uzatmak istersen, telefonu birkaç dakikalığına uzağa bırak.",
+   "moods": [
+    "calm"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "calm-read",
+   "text": "Sakin bir anı birkaç sayfa okumak, sevdiğin bir şarkıyı baştan sona dinlemek için kullanabilirsin.",
+   "moods": [
+    "calm",
+    "good"
+   ],
+   "goals": [
+    "brighterDays"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "thank-yourself",
+   "text": "Bugün iyi giden şeylerde senin de payın var. Bunu fark etmek için bir an ayır.",
+   "moods": [
+    "great",
+    "good",
+    "calm"
+   ],
+   "goals": [
+    "motivation"
+   ]
+  },
+  {
+   "id": "tired-lower-bar",
+   "text": "Yorgun bir günde çıtayı biraz indirmek akıllıca. Bugün sadece gerekenler yeterli.",
+   "moods": [
+    "tired"
+   ],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "tired-early-night",
+   "text": "Bu akşam her şeyi biraz erken bitirmeyi düşünebilirsin. Yarın sana teşekkür edebilir.",
+   "moods": [
+    "tired"
+   ],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "tired-ask",
+   "text": "Yorgunken bir işi başkasına devretmek ya da ertelemek, pes etmek değil.",
+   "moods": [
+    "tired",
+    "stressed"
+   ],
+   "goals": []
+  },
+  {
+   "id": "tired-short-walk",
+   "text": "Kısa bir yürüyüş ya da sadece pencereyi açmak, yorgunluğun ağırlığını biraz hafifletebilir.",
+   "moods": [
+    "tired",
+    "low"
+   ],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "stressed-one-step",
+   "text": "Her şey aynı anda acil görünüyorsa, sadece bir sonraki adımı düşün. Gerisi sonra.",
+   "moods": [
+    "stressed"
+   ],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "stressed-write-down",
+   "text": "Aklındaki her şeyi bir kâğıda dök. Yazıya geçen şeyleri aklında tutmak zorunda kalmazsın.",
+   "moods": [
+    "stressed"
+   ],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "stressed-shoulders",
+   "text": "Omuzlarını kulaklarından uzaklaştır, çeneni gevşet. Küçük bir duruş değişikliği bile fark yaratabilir.",
+   "moods": [
+    "stressed"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "stressed-not-all",
+   "text": "Bugün her şeyi çözmek zorunda değilsin. Birini çözmek de yeterli.",
+   "moods": [
+    "stressed",
+    "tired"
+   ],
+   "goals": []
+  },
+  {
+   "id": "low-gentle-day",
+   "text": "Keyifsiz bir günde kendinden çok şey bekleme. Bugün sadece kendine nazik olmak yeterli bir hedef.",
+   "moods": [
+    "low",
+    "sad"
+   ],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "rest"
+   ]
+  },
+  {
+   "id": "low-small-comfort",
+   "text": "Seni biraz rahatlatan küçük bir şey seç: sevdiğin bir içecek, yumuşak bir battaniye, tanıdık bir dizi.",
+   "moods": [
+    "low",
+    "sad"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "sad-allowed",
+   "text": "Üzgün hissetmek, bir şeylerin yanlış gittiği anlamına gelmek zorunda değil. Bazen sadece hissetmek gerekir.",
+   "moods": [
+    "sad"
+   ],
+   "goals": []
+  },
+  {
+   "id": "sad-reach-out",
+   "text": "Yakın biriyle konuşmak istersen, \"Bugün biraz zor\" demek yeter. Gerisini anlatmak zorunda değilsin.",
+   "moods": [
+    "sad",
+    "low"
+   ],
+   "goals": []
+  },
+  {
+   "id": "low-outside",
+   "text": "Biraz gün ışığı, kısa bir yürüyüş ya da sadece balkona çıkmak; bazen ortamı değiştirmek düşünceyi de değiştirir.",
+   "moods": [
+    "low"
+   ],
+   "goals": [
+    "brighterDays"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "low-tomorrow",
+   "text": "Bugün nasıl geçerse geçsin, yarın yeni bir sayfa. Bu akşam kendine iyi bak.",
+   "moods": [
+    "low",
+    "sad",
+    "tired"
+   ],
+   "goals": []
+  },
+  {
+   "id": "sad-no-fix",
+   "text": "Her duyguyu hemen düzeltmek zorunda değilsin. Bazen yanında oturmak yeterli.",
+   "moods": [
+    "sad"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "stressed-breath-out",
+   "text": "Nefesini verirken biraz daha uzun tut. Acele etmeden birkaç kez tekrarla.",
+   "moods": [
+    "stressed",
+    "low"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "tired-enough-today",
+   "text": "Yorgunluğun, bugün çok şey yaptığının işareti de olabilir. Dinlenmeyi hak ediyorsun.",
+   "moods": [
+    "tired"
+   ],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "small-door",
+   "text": "Zor görünen bir işin en küçük kapısını bul: bir dosyayı açmak, tek bir cümle yazmak. Gerisi çoğu zaman arkasından gelir.",
+   "moods": [],
+   "goals": [
+    "motivation"
+   ],
+   "contexts": [
+    "work",
+    "errands"
+   ]
+  },
+  {
+   "id": "kind-to-yesterday",
+   "text": "Dünkü hâline biraz anlayış göster. O gün elindekiyle elinden geleni yapıyordun.",
+   "moods": [],
+   "goals": [
+    "selfCare"
+   ]
+  },
+  {
+   "id": "one-corner",
+   "text": "Etrafında tek bir köşeyi toparla. Küçük bir düzen, günün geri kalanına da yer açabilir.",
+   "moods": [],
+   "goals": [
+    "routines"
+   ],
+   "contexts": [
+    "errands",
+    "rest"
+   ]
+  },
+  {
+   "id": "quiet-minute",
+   "text": "Güne başlarken bir dakikanı yalnızca kendine ayır; bir şey yapmadan, sadece etrafını fark ederek.",
+   "moods": [],
+   "goals": [
+    "selfCare"
+   ],
+   "contexts": [
+    "work",
+    "rest"
+   ]
+  },
+  {
+   "id": "favorite-piece",
+   "text": "Dolabındaki en sevdiğin parçayı en son ne zaman giydin? Onu giymek için özel bir gün beklemek zorunda değilsin.",
+   "moods": [],
+   "goals": [
+    "styleAdvice"
+   ],
+   "contexts": [
+    "outing",
+    "work"
+   ]
+  },
+  {
+   "id": "evening-question",
+   "text": "Günün sonunda kendine şunu sorabilirsin: Bugün neyi dünden biraz daha iyi yaptım?",
+   "moods": [],
+   "goals": [
+    "brighterDays"
+   ]
+  }
+ ]
+}

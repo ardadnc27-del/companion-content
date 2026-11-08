@@ -1,0 +1,431 @@
+{
+ "version": 5,
+ "outfits": [
+  {
+   "id": "cold-wool-coat",
+   "title": "Yün kaban ve balıkçı yaka",
+   "details": "Kalın yün kaban, balıkçı yaka triko, düz kesim pantolon ve sıcak tutan bot. Atkıyı unutma.",
+   "minFeelsLikeC": -20,
+   "maxFeelsLikeC": 6,
+   "wetWeatherReady": false,
+   "styles": [
+    "elegant",
+    "minimal"
+   ],
+   "colors": [
+    "black",
+    "gray",
+    "navy",
+    "beige"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "cold-puffer",
+   "title": "Şişme mont ve katmanlar",
+   "details": "Şişme mont, altına ince bir termal ve sweatshirt, kalın çorap ve su geçirmez bot.",
+   "minFeelsLikeC": -20,
+   "maxFeelsLikeC": 6,
+   "wetWeatherReady": true,
+   "styles": [
+    "casual",
+    "sporty",
+    "streetwear"
+   ],
+   "colors": [
+    "black",
+    "navy",
+    "green"
+   ],
+   "contexts": [
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "cold-parka-knit",
+   "title": "Parka ve kalın triko",
+   "details": "Kapüşonlu parka, kalın triko, jean ve bot; bere ile tamamla.",
+   "minFeelsLikeC": -20,
+   "maxFeelsLikeC": 6,
+   "wetWeatherReady": true,
+   "styles": [
+    "casual",
+    "minimal"
+   ],
+   "colors": [
+    "green",
+    "brown",
+    "beige",
+    "navy"
+   ],
+   "contexts": [
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "chilly-trench-knit",
+   "title": "Trençkot ve ince triko",
+   "details": "Trençkot, ince triko, kumaş pantolon ve loafer. Yağmura karşı trençkotun kemerini bağla.",
+   "minFeelsLikeC": 6,
+   "maxFeelsLikeC": 13,
+   "wetWeatherReady": true,
+   "styles": [
+    "elegant",
+    "minimal"
+   ],
+   "colors": [
+    "beige",
+    "brown",
+    "navy",
+    "white"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "chilly-leather",
+   "title": "Deri ceket ve hoodie",
+   "details": "Deri ceket, altına hoodie, siyah jean ve bot.",
+   "minFeelsLikeC": 6,
+   "maxFeelsLikeC": 13,
+   "wetWeatherReady": false,
+   "styles": [
+    "streetwear",
+    "casual"
+   ],
+   "colors": [
+    "black",
+    "gray",
+    "red"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "chilly-fleece",
+   "title": "Polar ve rüzgarlık",
+   "details": "Polar üst, ince rüzgarlık, eşofman altı ve spor ayakkabı; hareket ederken ısınırsın, katman çıkarmak kolay.",
+   "minFeelsLikeC": 6,
+   "maxFeelsLikeC": 13,
+   "wetWeatherReady": true,
+   "styles": [
+    "sporty",
+    "casual"
+   ],
+   "colors": [
+    "blue",
+    "gray",
+    "green",
+    "black"
+   ],
+   "contexts": [
+    "errands",
+    "rest"
+   ]
+  },
+  {
+   "id": "chilly-blazer-coat",
+   "title": "Blazer üstüne kaban",
+   "details": "İnce kaban, altına blazer ve gömlek, kumaş pantolon ve kapalı ayakkabı.",
+   "minFeelsLikeC": 6,
+   "maxFeelsLikeC": 13,
+   "wetWeatherReady": false,
+   "styles": [
+    "elegant"
+   ],
+   "colors": [
+    "navy",
+    "gray",
+    "black",
+    "white"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "cool-denim-jacket",
+   "title": "Kot ceket ve tişört",
+   "details": "Kot ceket, düz tişört, chino ve sneaker. Akşamüstü serinleyince ceket işini görür.",
+   "minFeelsLikeC": 13,
+   "maxFeelsLikeC": 19,
+   "wetWeatherReady": false,
+   "styles": [
+    "casual",
+    "minimal"
+   ],
+   "colors": [
+    "blue",
+    "white",
+    "beige"
+   ],
+   "contexts": [
+    "outing",
+    "errands"
+   ]
+  },
+  {
+   "id": "cool-shell-jacket",
+   "title": "Yağmurluk ve sweatshirt",
+   "details": "Hafif yağmurluk, sweatshirt, jean ve su itici sneaker.",
+   "minFeelsLikeC": 13,
+   "maxFeelsLikeC": 19,
+   "wetWeatherReady": true,
+   "styles": [
+    "casual",
+    "sporty",
+    "streetwear"
+   ],
+   "colors": [
+    "navy",
+    "green",
+    "yellow",
+    "black"
+   ],
+   "contexts": [
+    "errands"
+   ]
+  },
+  {
+   "id": "cool-cardigan",
+   "title": "Hırka ve gömlek",
+   "details": "Uzun hırka, sade gömlek, kumaş pantolon ve loafer.",
+   "minFeelsLikeC": 13,
+   "maxFeelsLikeC": 19,
+   "wetWeatherReady": false,
+   "styles": [
+    "minimal",
+    "elegant"
+   ],
+   "colors": [
+    "beige",
+    "gray",
+    "white",
+    "brown"
+   ],
+   "contexts": [
+    "work",
+    "rest"
+   ]
+  },
+  {
+   "id": "cool-overshirt",
+   "title": "Oversize gömlek ceket",
+   "details": "Kalın oversize gömlek ceket, tişört, kargo pantolon ve sneaker.",
+   "minFeelsLikeC": 13,
+   "maxFeelsLikeC": 19,
+   "wetWeatherReady": false,
+   "styles": [
+    "streetwear"
+   ],
+   "colors": [
+    "green",
+    "brown",
+    "black"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "mild-shirt-chino",
+   "title": "Keten gömlek ve chino",
+   "details": "Açık renk gömlek, chino pantolon ve sneaker; akşam için ince bir ceket yeterli.",
+   "minFeelsLikeC": 19,
+   "maxFeelsLikeC": 25,
+   "wetWeatherReady": false,
+   "styles": [
+    "minimal",
+    "casual"
+   ],
+   "colors": [
+    "white",
+    "beige",
+    "blue"
+   ],
+   "contexts": [
+    "work"
+   ]
+  },
+  {
+   "id": "mild-dress-blazer",
+   "title": "Midi elbise ve ince blazer",
+   "details": "Midi elbise ya da kumaş pantolon, ince blazer ve rahat babet.",
+   "minFeelsLikeC": 19,
+   "maxFeelsLikeC": 25,
+   "wetWeatherReady": false,
+   "styles": [
+    "elegant"
+   ],
+   "colors": [
+    "pink",
+    "purple",
+    "navy",
+    "white"
+   ],
+   "contexts": [
+    "work",
+    "outing"
+   ]
+  },
+  {
+   "id": "mild-umbrella-layer",
+   "title": "Hafif trençkot ve jean",
+   "details": "Hafif trençkot, tişört, jean ve kapalı ayakkabı; şemsiyeyi çantaya koy.",
+   "minFeelsLikeC": 19,
+   "maxFeelsLikeC": 25,
+   "wetWeatherReady": true,
+   "styles": [
+    "minimal",
+    "casual",
+    "elegant"
+   ],
+   "colors": [
+    "beige",
+    "navy",
+    "gray"
+   ],
+   "contexts": [
+    "errands",
+    "work"
+   ]
+  },
+  {
+   "id": "mild-athleisure",
+   "title": "Rahat spor kombin",
+   "details": "Nefes alan tişört, jogger, hafif sweatshirt ve spor ayakkabı.",
+   "minFeelsLikeC": 19,
+   "maxFeelsLikeC": 25,
+   "wetWeatherReady": false,
+   "styles": [
+    "sporty",
+    "streetwear"
+   ],
+   "colors": [
+    "gray",
+    "black",
+    "green",
+    "blue"
+   ],
+   "contexts": [
+    "rest",
+    "errands"
+   ]
+  },
+  {
+   "id": "warm-linen",
+   "title": "Keten takım",
+   "details": "Keten gömlek ya da bluz, keten pantolon ve açık ayakkabı.",
+   "minFeelsLikeC": 25,
+   "maxFeelsLikeC": 31,
+   "wetWeatherReady": false,
+   "styles": [
+    "minimal",
+    "elegant"
+   ],
+   "colors": [
+    "white",
+    "beige",
+    "green"
+   ],
+   "contexts": [
+    "work",
+    "outing"
+   ]
+  },
+  {
+   "id": "warm-tee-shorts",
+   "title": "Tişört ve şort",
+   "details": "Pamuklu tişört, şort ve rahat sneaker; şapka iyi gelir.",
+   "minFeelsLikeC": 25,
+   "maxFeelsLikeC": 31,
+   "wetWeatherReady": false,
+   "styles": [
+    "casual",
+    "sporty",
+    "streetwear"
+   ],
+   "colors": [
+    "white",
+    "blue",
+    "yellow",
+    "red"
+   ],
+   "contexts": [
+    "errands",
+    "rest"
+   ]
+  },
+  {
+   "id": "warm-rain-ready",
+   "title": "Hafif yağmurluk ve şort",
+   "details": "İnce, katlanır yağmurluk, tişört, hızlı kuruyan şort ve sandalet.",
+   "minFeelsLikeC": 25,
+   "maxFeelsLikeC": 31,
+   "wetWeatherReady": true,
+   "styles": [
+    "casual",
+    "sporty"
+   ],
+   "colors": [
+    "yellow",
+    "blue",
+    "green"
+   ],
+   "contexts": [
+    "errands",
+    "outing"
+   ]
+  },
+  {
+   "id": "hot-airy-dress",
+   "title": "Uçuş uçuş elbise",
+   "details": "Bol kesim pamuklu elbise ya da şort-gömlek, sandalet ve güneş gözlüğü.",
+   "minFeelsLikeC": 31,
+   "maxFeelsLikeC": 50,
+   "wetWeatherReady": false,
+   "styles": [
+    "elegant",
+    "casual"
+   ],
+   "colors": [
+    "white",
+    "yellow",
+    "pink",
+    "blue"
+   ],
+   "contexts": [
+    "outing"
+   ]
+  },
+  {
+   "id": "hot-light-basics",
+   "title": "Açık renk basic parçalar",
+   "details": "Açık renk, bol kesim tişört, keten şort ve açık ayakkabı; gölgede kalmaya çalış.",
+   "minFeelsLikeC": 31,
+   "maxFeelsLikeC": 50,
+   "wetWeatherReady": true,
+   "styles": [
+    "minimal",
+    "casual",
+    "sporty",
+    "streetwear"
+   ],
+   "colors": [
+    "white",
+    "beige",
+    "gray"
+   ],
+   "contexts": [
+    "errands",
+    "rest"
+   ]
+  }
+ ]
+}
